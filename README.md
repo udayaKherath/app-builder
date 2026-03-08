@@ -248,7 +248,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -259,4 +258,5 @@ Built with ❤️ using [LangGraph](https://langchain-ai.github.io/langgraph/) �
 ⭐ **Star this repo if you found it useful!**
 
 </div>
+
 
